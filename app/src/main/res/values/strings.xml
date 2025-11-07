@@ -6,6 +6,7 @@
     <string name="nama_lengkap">NAMA LENGKAP</string>
     <string name="jenis_kelamin">JENIS KELAMIN</string>
     <string name="jenis_perkawinan">STATUS PERKAWINAN</string>
+    <string name="alamat">ALAMAT</string>
 
 
 </resources>
